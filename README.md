@@ -170,18 +170,6 @@ ALLOWED_HOSTS=127.0.0.1,localhost
 
 ---
 
-## 📸 Application Preview
-
-<div align="center">
-
-_Add screenshots here_
-
-```markdown
-![Homepage](screenshots/home.png)
-![Post Detail](screenshots/post.png)
-![Admin Dashboard](screenshots/admin.png)
-```
-
 </div>
 
 ---
